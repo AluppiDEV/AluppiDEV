@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Alessandro
 
-[![Inglese](https://img.shields.io/badge/🇬🇧-Inglese-green)](./README.en.md)
+[![English](https://img.shields.io/badge/🇬🇧-English-green)](./README.en.md)
 
 ## ✨ Chi sono
 
