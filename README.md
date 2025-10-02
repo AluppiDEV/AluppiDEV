@@ -1,51 +1,65 @@
-# 👋 Hi, I'm Alessandro
+# 👋 Ciao, sono Alessandro
 
-[![Italiano](https://img.shields.io/badge/🌐-Italiano-green)](./README.it.md)
+[![Inglese](https://img.shields.io/badge/🇬🇧-Inglese-green)](./README.en.md)
 
-## ✨ About Me  
-I’m a developer interested in [your fields of interest].  
-I enjoy working on practical projects and learning new technologies.  
+## ✨ Chi sono
 
----
-
-## 🏫 Education & 💼 Work  
-- 🎓 Studied at **[Your School/University]**  
-- 💻 Worked at **[Company/Organization]** as [your role]  
+Sono uno sviluppatore interessato a sviluppo web e videogames.  
+Mi piace lavorare su progetti pratici e imparare nuove tecnologie.
 
 ---
 
-## 🛠️ Languages & Technologies  
+## 🏫 Formazione
 
-Here are the main languages and tools I use, with my skill level:  
+<!-- & 💼 Esperienze   -->
 
-![Java](https://img.shields.io/badge/Java-Intermediate-orange)  
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)  
-![Python](https://img.shields.io/badge/Python-Beginner-blue)  
-
----
-
-## 📂 Featured Repositories  
-
-- [**Repo1**](https://github.com/your-username/repo1) → Short description of the project  
-- [**Repo2**](https://github.com/your-username/repo2) → Short description of the project  
-- [**Repo3**](https://github.com/your-username/repo3) → Short description of the project  
+- 🎓 Ho studiato presso **IIS Fermo Corni**
+<!-- - - 💻 Ho lavorato in **[Nome Azienda/Organizzazione]** come [ruolo/attività]   -->
 
 ---
 
-## 🌍 Other Profiles & Organizations  
+## 🛠️ Linguaggi e Tecnologie
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐦 [Twitter](https://twitter.com/your-profile)  
-- 🏢 Member of [GitHub Organization](https://github.com/orgs/your-org)  
+Ecco i linguaggi e gli strumenti che uso, con il livello di conoscenza:
+
+<!-- Advanced-orange, Intermediate-yellow, Beginner-blue -->
+
+![C++](https://img.shields.io/badge/C++-Intermediate-yellow)
+![Python](https://img.shields.io/badge/Python-Beginner-blue)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-yellow)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow)
+![Java](https://img.shields.io/badge/Java-Beginner-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-blue)
 
 ---
 
-## 🎨 Decorative Badges  
+## 📂 Repository Principali
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/your-username?affiliations=OWNER%2CCOLLABORATOR&style=social)  
+- [**Informatica**](https://github.com/your-username/repo1)
+- [**TEPSIT**](https://github.com/your-username/repo2)
+- [**Sistemi**](https://github.com/your-username/repo3)
 
+All three of these repositories contain school projects I completed during my studies.  
+In **Informatica**, I worked on **C++**, **Python**, **Java**.  
+In **TEPSIT**, I focused on **HTML**, **CSS**, **JavaScript**.  
+And in **Sistemi**, I explored **Cisco Packet Tracer**.
+
+---
+
+## 🌍 Altri Profili & Organizzazioni
+
+<!-- - 🔗 [LinkedIn](https://linkedin.com/in/tuo-profilo) -->
+<!-- - 🐦 [Twitter](https://twitter.com/tuo-profilo) -->
+
+- 🏢 Membro di [Endless Team](https://github.com/Endless-Team)
+
+---
+
+## 🎨 Targhette Decorative
+
+![Profile Views](https://komarev.com/ghpvc/?username=tuo-username&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/tuo-username?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/tuo-username?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 <!--
 **AluppiDEV/AluppiDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
