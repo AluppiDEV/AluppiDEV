@@ -35,14 +35,14 @@ Ecco i linguaggi e gli strumenti che uso, con il livello di conoscenza:
 
 ## 📂 Repository Principali
 
-- [**Informatica**](https://github.com/your-username/repo1)
-- [**TEPSIT**](https://github.com/your-username/repo2)
-- [**Sistemi**](https://github.com/your-username/repo3)
+- [**Informatica**](https://github.com/AluppiDEV/Informatica)
+- [**TEPSIT**](https://github.com/AluppiDEV/TEPSIT)
+- [**Sistemi**](https://github.com/AluppiDEV/Sistemi)
 
-All three of these repositories contain school projects I completed during my studies.  
-In **Informatica**, I worked on **C++**, **Python**, **Java**.  
-In **TEPSIT**, I focused on **HTML**, **CSS**, **JavaScript**.  
-And in **Sistemi**, I explored **Cisco Packet Tracer**.
+Tutti e tre questi repository contengono progetti scolastici che ho realizzato durante i miei studi.  
+In **Informatica** ho lavorato con **C++**, **Python**, **Java**.  
+In **TEPSIT** mi sono concentrato su **HTML**, **CSS**, **JavaScript**.  
+In **Sistemi** ho utilizzato **Cisco Packet Tracer**.  
 
 ---
 
